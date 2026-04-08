@@ -18,3 +18,10 @@ Founder of BD360. Kinesiology × Bio-data × AI.
 - **Causality / Context** — 인과추론, 개인 데이터의 의미
 - **AI / Agent** — 에이전트 아키텍처, 임베드 패턴
 - **Biohacking / Quantified Self** — 최적화, 커뮤니티 트렌드
+
+---
+
+## 글
+
+- [웨어러블이 부상을 "예측"할 수 있다](ko/wearable-injury-prediction) — 2026.04.08
+- [Wearables can "predict" injuries](en/wearable-injury-prediction) — 2026.04.08
